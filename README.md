@@ -2,8 +2,8 @@
 #### 获取授权码 code
 http://localhost:8080/oauth/authorize?response_type=code&client_id=admin&redirect_url=http://www.baidu.com&scope=all
 
-用户名：admin
-密码：123456
+用户名：admin  
+密码：123456  
 
 #### 请求获取 token
 ![image](https://user-images.githubusercontent.com/8408589/194704264-aca71a23-b4b3-4737-ab05-dee45522de99.png)
