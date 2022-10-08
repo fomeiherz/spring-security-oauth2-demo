@@ -6,7 +6,7 @@ http://localhost:8080/oauth/authorize?response_type=code&client_id=admin&redirec
 密码：123456
 
 #### 请求获取 token
-![image](https://user-images.githubusercontent.com/8408589/194704179-c965950d-0ea0-441b-b14c-69930fa92858.png)
+![image](https://user-images.githubusercontent.com/8408589/194704264-aca71a23-b4b3-4737-ab05-dee45522de99.png)
 ![image](https://user-images.githubusercontent.com/8408589/194704202-2f2f45b9-d497-48fc-8311-48f5acae25a7.png)
 
 
